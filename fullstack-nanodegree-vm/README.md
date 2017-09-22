@@ -9,4 +9,4 @@ Common code for the Relational Databases and Full Stack Fundamentals courses
 2. Vagrant ('https://www.vagrantup.com/')
 3. Also install vagrant box ('http://www.vagrantbox.es/')
 
-Then It tun on you computer
+Then It will run on you computer
