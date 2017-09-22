@@ -3,7 +3,7 @@
 
 Common code for the Relational Databases and Full Stack Fundamentals courses
 
-# # You can run this code with a vitualbox 
+## You can run this code with a vitualbox 
 - Inorder to run this project you need to Download and Install following thing:
 1. Vitualbox ('https://www.virtualbox.org//0')
 2. Vagrant ('https://www.vagrantup.com/')
